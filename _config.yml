@@ -14,7 +14,7 @@ timezone:
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Isaiah Effiong # the main title
+title: Isaiah Effiong  # the main title
 
 tagline: No Decision Escape the Hands of Fate, Even Inactions are carried by The Hands of Circumstances # it will display as the subtitle
 
@@ -22,8 +22,11 @@ description: >- # used by seo meta and the atom feed
   Web & Mobile Aplication Security Reseacher | Exploring Blockchain and Cloud Security | ARM | Chasing My Curiousit.
 
 # Fill in the protocol & hostname for your site.
+avatar: https://pbs.twimg.com/profile_images/1878681744938790912/D2LQf5mp_400x400.jpg
+
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
 url: "https://Isecyber.github.io"
+
 
 github:
   username: Isecyber # change to your GitHub username
@@ -35,7 +38,7 @@ social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
   name: Isaiah Effiong
-  email: Chatwith@gmail.com # change to your email address
+  email: chatwith@gmail.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
     - https://x.com/Hacker_Ise # change to your Twitter homepage
@@ -98,7 +101,7 @@ theme_mode: # [light | dark]
 cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar:https://pbs.twimg.com/profile_images/1878681744938790912/D2LQf5mp_400x400.jpg
+
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
@@ -150,7 +153,7 @@ pwa:
 paginate: 10
 
 # The base URL of your site
-baseurl: ""
+baseurl: "https://isecyber.github.io/"
 
 # ------------ The following options are not recommended to be modified ------------------
 
